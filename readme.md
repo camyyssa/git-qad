@@ -7,3 +7,4 @@ Feature D was here ✅
 Feature F was here ✅
 Feature G was here ✅
 Hotfix on secure
+Hotfix on next
